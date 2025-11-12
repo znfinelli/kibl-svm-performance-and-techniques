@@ -1,0 +1,7 @@
+matplotlib==3.10.7
+numpy==2.3.3
+pandas==2.3.3
+scikit_learn==1.7.2
+scikit_posthocs==0.11.4
+scipy==1.16.2
+skrebate==0.62
