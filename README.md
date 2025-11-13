@@ -1,7 +1,7 @@
-**K-IBL and SVM Performance Analysis Project**
+##**K-IBL and SVM Performance Analysis Project**##
 
-Authors: Zoë Finelli, Onat Bitirgen, Emre Karaoglu, Noel Torres Carretero  
-Date: 02 November 2025
+**Authors**: Zoë Finelli, Onat Bitirgen, Emre Karaoglu, Noel Torres Carretero  
+**Date**: 02 November 2025
 
 
 **Introduction:**
