@@ -1,0 +1,4 @@
+Metric,Friedman Statistic,p-value
+Accuracy,657.944098,0.000000
+Time_ms,629.594064,0.000000
+Storage_percent,699.979635,0.000000

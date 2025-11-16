@@ -1,0 +1,11 @@
+algorithm,Average Rank (Accuracy),Average Accuracy (%),Average Time (ms)
+Euclidean_5_BordaCount_DC,21.350,0.994,11.731
+Euclidean_5_BordaCount_NR,22.500,0.994,11.700
+Euclidean_5_BordaCount_DD,22.500,0.994,11.957
+Euclidean_5_BordaCount_AR,24.800,0.994,12.379
+Cosine_3_ModPlurality_AR,26.150,0.994,71.459
+Euclidean_7_BordaCount_DC,26.250,0.994,11.649
+Cosine_3_BordaCount_AR,26.950,0.994,84.394
+Cosine_5_BordaCount_DC,27.000,0.994,25.797
+Cosine_5_BordaCount_DD,27.100,0.994,26.354
+Cosine_5_BordaCount_NR,27.100,0.994,25.713

@@ -1,0 +1,11 @@
+algorithm,Average Rank (Accuracy),Average Accuracy (%),Average Time (ms)
+HEOM_7_ModPlurality_NR,2.300,0.833,88.066
+HEOM_7_ModPlurality_DC,3.050,0.832,171.182
+HEOM_7_ModPlurality_AR,3.050,0.832,99.696
+HEOM_7_ModPlurality_DD,3.200,0.832,125.568
+Cosine_7_ModPlurality_NR,6.650,0.830,194.190
+Euclidean_7_ModPlurality_NR,6.950,0.830,90.010
+Euclidean_7_ModPlurality_DD,10.000,0.829,94.258
+Cosine_7_ModPlurality_DD,10.200,0.829,253.133
+Euclidean_7_ModPlurality_AR,10.550,0.829,89.179
+Cosine_7_ModPlurality_AR,11.100,0.829,323.411

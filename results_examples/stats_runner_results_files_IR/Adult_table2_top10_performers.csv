@@ -1,0 +1,5 @@
+algorithm,Average Rank (Accuracy),Average Accuracy (%),Average Time (ms)
+HEOM_7_ModPlurality_NR_ENN,1.200,0.835,62.917
+HEOM_7_ModPlurality_NR_None,1.900,0.833,88.066
+HEOM_7_ModPlurality_NR_ICF,3.000,0.827,7.022
+HEOM_7_ModPlurality_NR_TCNN,3.900,0.819,24.356

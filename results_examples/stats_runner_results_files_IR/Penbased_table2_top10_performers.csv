@@ -1,0 +1,5 @@
+algorithm,Average Rank (Accuracy),Average Accuracy (%),Average Time (ms)
+Euclidean_5_BordaCount_NR_None,1.150,0.994,11.700
+Euclidean_5_BordaCount_NR_ENN,1.900,0.993,45.247
+Euclidean_5_BordaCount_NR_TCNN,2.950,0.987,2.713
+Euclidean_5_BordaCount_NR_ICF,4.000,0.979,2.518
